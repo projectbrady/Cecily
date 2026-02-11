@@ -1,4 +1,4 @@
-const toggleBtn = document.getElementById("chris");
+const toggleBtn = document.getElementById("cecily");
 const text = document.getElementById("display-text");
 const image = document.getElementById("suprise-img");
 const surpriseContent = document.getElementById("surprise-content");
